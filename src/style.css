@@ -1,0 +1,10 @@
+body {
+  background: darkseagreen;
+}
+
+li {
+  display: inline;
+}
+.navbar {
+  display: flex;
+}
